@@ -1,0 +1,37 @@
+@media (max-width: 768px ) {
+    .responsive-image {
+     
+     height: 50%;
+      width: max-content;
+     
+      
+      
+    }
+
+    .responsive-div{
+       width: 50%;
+       height: auto;
+     
+        flex: none;
+    }
+
+    .textSize{
+      font-size: smaller;
+      
+    }
+    .textSizeHeading{
+      font-size: larger;
+    }
+  }
+  
+  
+.bg-img{
+    background-image: url('/public/chi-chi-bg.jpg');
+    background-size: cover;
+}
+.bg-img2{
+  background-image: url('https://tariqsp.com/wp-content/uploads/2023/08/skyjumper-chi-chi.png');
+  background-size: 100% 99%;
+  background-repeat: no-repeat;
+ 
+}

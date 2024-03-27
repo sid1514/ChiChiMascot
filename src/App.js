@@ -1,24 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
-
+import Home from "./Home";
+import About from "./components/About";
+import Personality from "./components/Personality";
+import Role from "./components/Role";
+import Adventure from "./components/Adventure";
+import JumpingChiChi from "./components/Jumping";
+import SMeet from "./components/Meet";
+import BuyMerch from "./components/Buy";
+import ChiChiBlogs from "./components/Blogs";
+import FooterCont from "./components/Footer";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+  
+      <Home/>
+      <About/>
+      <Personality/>
+      <Role/>
+      <Adventure/>
+      <JumpingChiChi/>
+      <SMeet/>
+      <BuyMerch/>
+      <ChiChiBlogs/>
+      <FooterCont/>
+    </>
+   
   );
 }
 
