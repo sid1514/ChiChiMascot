@@ -35,13 +35,21 @@ const JumpingChiChi=()=>{
     <div>
         <img src="Tip3.png" className="  my-6 my-6 w-3/4 m-2" alt='tip3'/>
     </div>
- 
+    <div>
+        <img src="Tip4.jpg" className="  my-6 my-6 w-3/4 m-2" alt='tip4'/>
+    </div>
+    <div>
+        <img src="Tip5.jpg" className="  my-6 my-6 w-3/4 m-2" alt='tip5'/>
+    </div>
+    <div>
+        <img src="Tip6.png" className="  my-6 my-6 w-3/4 m-2" alt='tip6'/>
+    </div>
     </Slider>
    <div className='mt-10'>
-    <p className='text-centre w-1/2 text-stone-500 textSize'><b className='text-amber-600'>Bonus Tip:</b> Want to impress everyone with your epic bouncing skills? Practice, practice,practice! The more you bounce, the better you'll become, and soon you'll be soaring through the air like Chi Chi himself!</p>
-    <p className='text-centre  w-1/2 text-stone-500 textSize'>
-    Remember, bouncing should be a blast, so follow these tips, bounce responsibly, and most importantly, have fun! Now go out there and show the world your inner chimp!
-    </p>
+        <p className='text-centre w-1/2 text-stone-500 textSize'><b className='text-amber-600'>Bonus Tip:</b> Want to impress everyone with your epic bouncing skills? Practice, practice,practice! The more you bounce, the better you'll become, and soon you'll be soaring through the air like Chi Chi himself!</p>
+        <p className='text-centre  w-1/2 text-stone-500 textSize'>
+        Remember, bouncing should be a blast, so follow these tips, bounce responsibly, and most importantly, have fun! Now go out there and show the world your inner chimp!
+        </p>
     </div>     
 </div>
 <div className='mt-10'>
