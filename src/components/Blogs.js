@@ -1,3 +1,4 @@
+import './Custom.css'
 const ChiChiBlogs=()=>{
     return(<>
 

@@ -1,4 +1,4 @@
-import './About.css'
+import './Custom.css'
 const BuyMerch=()=>{
     return(<>
 

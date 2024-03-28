@@ -11,7 +11,8 @@ import FooterCont from "./components/Footer";
 function App() {
   return (
     <>
-  
+  <section className="space-y-10">
+
       <Home/>
       <About/>
       <Personality/>
@@ -22,6 +23,7 @@ function App() {
       <BuyMerch/>
       <ChiChiBlogs/>
       <FooterCont/>
+  </section>
     </>
    
   );

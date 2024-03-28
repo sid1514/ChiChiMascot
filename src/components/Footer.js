@@ -1,5 +1,5 @@
 import { Icon } from "semantic-ui-react";
-import './About.css'
+import './Custom.css'
 const FooterCont=()=>{
     return(<>
     <section className="flex bg-purple-600 mb-10 pt-4 pl-4 mt-4">

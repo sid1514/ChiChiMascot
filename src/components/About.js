@@ -1,4 +1,4 @@
-import './About.css'
+import './Custom.css'
 const About=()=>{
     return(<>
     <section className="grid grid-cols-1 md:grid-cols-2 gap-8">
